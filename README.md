@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @emree259
-- 👀 I’m interested in data analytics...
-- 🌱 I’m currently learning python ...
-- 💞️ I’m looking to collaborate on data analytics projects...
-- 📫 How to reach me - send me a message...
+- 👋 Hi, I’m @Prime360Emre
+- 👀 I’m interested in MS Excel,VBA,Macros,SQL,SPREADSHEETS,POWER BI
+- 🌱 I’m learning for life time,and helping other people to learn and develop.
+- 💞️ I’m looking to collaborate/contribute on VBA and SQL Projects.
+
 
 <!---
 emree259/emree259 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
